@@ -7,6 +7,8 @@
 |   Haseeb Jalil   |    241908       |
 |   Taimur Sajid   |    241839       |
 
+LinkedIn Post : https://www.linkedin.com/posts/hasbeejay_altis-databasesystems-sqlserver-activity-7341691273491222529-5vf-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFPfHccBqn2DpjZmmSltyFr-YXTZa2hcEfQ
+
 ---
 
 ## 📌 Project Title & Description
